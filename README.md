@@ -16,7 +16,7 @@ This project is a professional-quality Power BI report developed as part of a ha
 
 ## 📁 Files Included
 - `AdventureWorksDashboard.pbix` – Main Power BI report
-- `/assets/` – Screenshots of report pages
+- `/images/` – Screenshots of report pages
 - `dashboard_export.pdf` – Printable static version of the dashboard
 
 ## 💡 Key Learnings
