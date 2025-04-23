@@ -27,5 +27,9 @@ This project is a professional-quality Power BI report developed as part of a ha
 
 ## 🖼️ Preview
 
-![Dashboard preview](images/Exec Dashboard.png)
+![Dashboard preview](images/Exec-Dashboard.png)
+![Product Details preview](images/Product-Details.png)
+![Map preview](images/Customer-Details.png)
+![Customer Details preview](images/Map.png)
+
 
