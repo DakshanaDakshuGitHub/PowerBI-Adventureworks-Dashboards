@@ -15,9 +15,9 @@ This project is a professional-quality Power BI report developed as part of a ha
 - Interactive Slicer Panels, Drillthroughs, and Custom Tooltips
 
 ## 📁 Files Included
-- `AdventureWorksDashboard.pbix` – Main Power BI report
-- `/images/` – Screenshots of report pages
-- `dashboard_export.pdf` – Printable static version of the dashboard
+- [`AdventureWorksDashboard.pbix`](./Report/AdventureWorksDashboard.pbix) – Main Power BI report
+- [`/images/`](./images)  – Screenshots of report pages
+- [`dashboard_export.pdf`](./Report/dashboard_export.pdf)   – Printable static version of the dashboard
 
 ## 💡 Key Learnings
 - Built a relational star schema model from raw data
