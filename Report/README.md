@@ -9,7 +9,7 @@ This repository contains a Power BI dashboard built using the **AdventureWorks**
 GitHub cannot preview `.pbix` files directly, as they are binary files. To explore the dashboard:
 
 1. **Download the report file**:  
-   👉 [Download AdventureWorksDashboard.pbix](./Report/AdventureWorksDashboard.pbix)
+   👉 [Download AdventureWorksDashboard.pbix](./AdventureWorksDashboard.pbix)
 
 2. **Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free to install)
 
